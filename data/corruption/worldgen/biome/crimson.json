@@ -1,0 +1,81 @@
+{
+    "temperature": 2,
+    "downfall": 0,
+    "has_precipitation": false,
+    "creature_spawn_probability": 0.99999,
+    "effects": {
+      "sky_color": 2951961,
+      "fog_color": 3474192,
+      "water_color": 5450861,
+      "water_fog_color": 3343641,
+      "grass_color": 10362884,
+      "foliage_color": 9056041,
+      "ambient_sound": "minecraft:music_disc.cat"
+    },
+    "spawners": {
+      "ambient": [],
+      "axolotls": [],
+      "creature": [
+        {
+          "type": "pig",
+          "weight": 100,
+          "minCount": 5,
+          "maxCount": 10
+        },
+        {
+          "type": "pig",
+          "weight": 100,
+          "minCount": 5,
+          "maxCount": 10
+        },
+        {
+          "type": "pig",
+          "weight": 100,
+          "minCount": 5,
+          "maxCount": 10
+        },
+        {
+          "type": "pig",
+          "weight": 100,
+          "minCount": 5,
+          "maxCount": 10
+        }
+      ],
+      "misc": [
+        
+      ],
+      "monster": [
+        {
+          "type": "minecraft:zombie",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 10
+        },
+        {
+          "type": "minecraft:zombie",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 10
+        },
+        {
+          "type": "minecraft:zombie",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 10
+        },
+        {
+          "type": "minecraft:zombie",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 10
+        }
+      ],
+      "underground_water_creature": [],
+      "water_ambient": [],
+      "water_creature": []
+    },
+    "spawn_costs": {},
+    "carvers": {},
+    "features": []
+  }
+  

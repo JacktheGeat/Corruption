@@ -1,0 +1,1 @@
+execute as @e[type=zombie, tag=!spawned] at @s run function corruption:spawncheck
